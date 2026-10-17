@@ -1,0 +1,6 @@
+{
+  "name": "Weather Checker App",
+  "description": "Global meteorological forecast application querying the Open-Meteo REST API with 5-day temperature predictions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
